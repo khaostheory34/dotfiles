@@ -1,0 +1,26 @@
+# Linux
+*~
+
+# Node.js, npm, and yarn.
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# | macOS                                                              |
+.DS_Store
+
+
+# | Vim                                                                |
+%*
+*.sw[a-z]
+*.un~
+.netrwhist
+Session.vim
+
+
+# Windows
+Desktop.ini
+ehthumbs.db
+Thumbs.db
